@@ -76,10 +76,6 @@ Codigo en js
 console.log("Esto es un bloque de codigo en JS");
 ```
 
-```bash
-php install.php
-```
-
 ---
 
 # Énfasis (negritas y cursivas)
